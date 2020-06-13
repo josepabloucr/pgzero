@@ -67,3 +67,4 @@ If you want to help out with the development of Pygame Zero, you can find some
 instructions on setting up a development version in the docs:
 
 http://pygame-zero.readthedocs.org/en/latest/contributing.html
+[![Run on Repl.it](https://repl.it/badge/github/penguintutor/pgzero)](https://repl.it/github/penguintutor/pgzero)
